@@ -1,0 +1,8 @@
+a = list(map(int, input("Enter the list elements: ").split()))
+print(sorted(a))
+
+
+
+
+
+# Code by Shreya Saxena
